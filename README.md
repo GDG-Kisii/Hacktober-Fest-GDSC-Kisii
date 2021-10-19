@@ -45,7 +45,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀
 	</tr>
 </table>
 <br>
-<b>Contributions of any kind are welcome!</b>
+<b>Contribution are welcome!</b>
 
 ## Happy?? Do Star ⭐ this Repo. 🤩
 
